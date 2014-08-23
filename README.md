@@ -11,7 +11,7 @@ The script run_analysis is designed to run on an already downloaded "UCI HAR Dat
 
 Objects in this repository:
 
-README.md;
-run_analysis.R;
-Activity_Summary.txt;
-CodeBook.md;
+- README.md
+- run_analysis.R
+- Activity_Summary.txt
+- CodeBook.md
